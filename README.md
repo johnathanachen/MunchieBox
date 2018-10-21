@@ -24,5 +24,3 @@
 - iOS 8.0+
 - Xcode 8.3+
 - Swift 3.1+
-# MunchieBox
-# MunchieBox
