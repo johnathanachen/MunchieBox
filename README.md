@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/johnathanachen/MunchieBox.svg?branch=develop)](https://github.com/johnathanachen/MunchieBox/tree/develop)
 
+Code sample of a previous build
+
 ## Design Patterns
 
 - Singleton
